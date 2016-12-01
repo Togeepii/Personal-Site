@@ -219,6 +219,9 @@ progress::-webkit-progress-value {
 .img-education{
     width: 5em;
 }
+.text-education{
+    padding-top: 2em;
+}
 /** navbar transform**/
 
 .scrolled {

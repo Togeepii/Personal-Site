@@ -1,10 +1,10 @@
 $(document).ready(function () {
     //script do smooth scroll
-    $("body").smoothWheel()
+    //$("body").smoothWheel();
 
     //transformar navbar
     $(window).on('scroll', function () {
-        if (Math.round($(window).scrollTop()) > $(".bg-1").height() - 100) {
+        if (Math.round($(window).scrollTop()) > 100) {
             $('.navbar').addClass('scrolled');
         } else {
             $('.navbar').removeClass('scrolled');
