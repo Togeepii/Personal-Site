@@ -215,7 +215,10 @@ progress::-webkit-progress-value {
 
 /** Knowledge **/
 
-
+/** Education **/
+.img-education{
+    width: 5em;
+}
 /** navbar transform**/
 
 .scrolled {
